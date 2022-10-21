@@ -3,14 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+This project is a demonstration of project flutter that can help the debutant in flutters.
 
-This project is a starting point for a Flutter application.
+Contains different widgets like 'ElvatedButton, stateful and Stateless Widgets, The implementation of the appbar, uses of icons... etc.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
